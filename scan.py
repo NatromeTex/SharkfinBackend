@@ -7,7 +7,7 @@ from moviepy.editor import VideoFileClip
 
 VIDEO_EXTENSIONS = {'.mp4', '.mkv', '.avi', '.mov'}
 
-TARGET_FOLDER = os.path.join('path/to','folder') #change this to your library
+TARGET_FOLDER = os.path.join('E:/media','movies') #change this to your library
 
 POSTER_BASE_URL = '/static/poster/'
 BACKDROP_BASE_URL = '/static/backdrop/'
